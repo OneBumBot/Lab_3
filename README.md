@@ -40,15 +40,15 @@
 
 1. Создаем чат
  
- ![](https://github.com/AlDmitrieva/lab_3_chat/blob/main/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png)
+ ![](https://github.com/OneBumBot/lab_3/blob/main/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png)
   
   2. Входим в чат
   
-  ![](https://github.com/AlDmitrieva/lab_3_chat/blob/main/%D0%92%D1%85%D0%BE%D0%B4.png)
+  ![](https://github.com/OneBumBot/lab_3/blob/main/%D0%92%D1%85%D0%BE%D0%B4.png)
   
   3. Пишем сообщение
   
-  ![](https://github.com/AlDmitrieva/lab_3_chat/blob/main/%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.png)
+  ![](https://github.com/OneBumBot/lab_3/blob/main/%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.png)
 
 ## Вывод
 Разработали и реализовали анонимный чат с возможностью создания каналов. 
